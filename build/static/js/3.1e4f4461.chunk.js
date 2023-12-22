@@ -1,0 +1,2 @@
+(this["webpackJsonpdiscord-clone"]=this["webpackJsonpdiscord-clone"]||[]).push([[3],{253:function(c,i,s){"use strict";s.r(i),i.default=s.p+"static/media/incomingcall.a424547c.wav"}}]);
+//# sourceMappingURL=3.1e4f4461.chunk.js.map
